@@ -1,1 +1,2 @@
-# lottopratice
+## lottopratice
+### GUI tkinter 
