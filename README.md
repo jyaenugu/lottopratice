@@ -5,5 +5,6 @@
 ![Slide5](https://github.com/jyaenugu/lottopratice/assets/167847489/032231be-989c-4ff8-b8df-3b79f401cd99)
 ![Slide6](https://github.com/jyaenugu/lottopratice/assets/167847489/414739e0-0686-4a0f-94cd-9aca1a3ab9c0)
 ![Slide7](https://github.com/jyaenugu/lottopratice/assets/167847489/d2f512cc-3209-4ec7-9bb1-2e4867d32e70)
+![image](https://github.com/jyaenugu/lottopratice/assets/167847489/dd508b6b-d5e0-4bfd-8edd-d4463a5b2c39)
 
 
