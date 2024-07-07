@@ -161,8 +161,8 @@ cvs.create_window(400, 150, window=button_frame, anchor=N) #북쪽을 기준으�
 for i in range(1, 47):
     btn = Button(button_frame, text=str(i), width=5, height=2)
     buttons.append(btn)
-    #버튼 클릭시 selected_number 함수 실행. select_number(btn, num)  
-    #i가 1일 때. selected_numbers(buttons[0], 1). 이렇게 매개변수가 설정됨. buttons[0]=1번째 버튼 
+    #버튼 클릭시 select_number 함수 실행. select_number(btn, num)  
+    #i가 1일 때. select_number(buttons[0], 1). 이렇게 매개변수가 설정됨. buttons[0]=1번째 버튼 
     btn.configure(command=lambda b=i: select_number(buttons[b-1], b))
     #버튼 묶음 배치. 7개씩 끊어서 배치. 1부터 7까지는 0행. 8부터 14까지는 2행
     #그리고 1은 i가 1때 0열. i가 2일 때 1열. 여백 적당히 주고. 
